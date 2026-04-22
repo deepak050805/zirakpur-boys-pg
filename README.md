@@ -18,8 +18,5 @@ A modern and responsive website developed for a client to showcase their Boys PG
 ## 📍 Purpose
 This project was built as a client-based solution to help increase online visibility and provide potential customers with a seamless way to explore and contact the PG.
 
-## 📸 Live Preview
-(You can add your GitHub Pages link here)
-
 ## 👨‍💻 Author
-Developed by [Your Name]
+Developed by [Deepak]
